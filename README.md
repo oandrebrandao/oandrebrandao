@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @oandrebrandao
-- 👀 I’m interested in FullStack 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python
 - 📫 How to reach me oandrebrandao@hotmail.com
 - 😄 Pronouns: He/Him
